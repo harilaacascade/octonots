@@ -17,3 +17,6 @@ Reference
 [markdown cheatsheet][3]
 
 [imgs]: http://www.instagram.com
+[1]: http://www.github.com
+[2]: http:/www.github.com "GITHUB"
+[3]: http://www.yahoo.com 
