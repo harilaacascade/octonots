@@ -11,7 +11,8 @@ Eight branched knots
 [Numbered reference][1]
 [search](http://www.google.com)
 [images][imgs]
-Reference
+
+References
 [tutorial][1]
 [github trial][2]
 [markdown cheatsheet][3]
@@ -20,3 +21,7 @@ Reference
 [1]: http://www.github.com
 [2]: http:/www.github.com "GITHUB"
 [3]: http://www.yahoo.com 
+
+**Development Table**
+Language | Editor | Libraries | Programs | Compiler |
+---- | ---- | ----| ----| ---- | ----- |
