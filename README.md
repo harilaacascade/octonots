@@ -23,9 +23,13 @@ References
 [3]: http://www.yahoo.com 
 
 **Development Table**
+
 Language | Editor | Libraries | Programs | Compiler |
+
 ---- | ---- | ----| ----| ---- | ----- |
+
 C++ | SourceInsight | network, curl, regexp, numeric, ssl | wget, | g++|
+
 python | idle, gvim | regexp, network, strings, url, httplib, scipy, numpy | | |
 
 
